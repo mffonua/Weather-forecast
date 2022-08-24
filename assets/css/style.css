@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:ital,wght@100;200;400;700;,100&display=swap');
+
 
 *{
     box-sizing: border-box;
@@ -12,7 +12,7 @@ body{
     background-size: cover;
     overflow: hidden;
     height: 100vh;
-    font-family: 'Poppins', sans-serif;
+    font-family:  sans-serif;
 }
 .container{
     padding: 20px 70px;
