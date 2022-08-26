@@ -19,6 +19,10 @@ CONTENTS OF THIS FILE
   ### Deployment
   https://mffonua.github.io/Weather-forecast/ 
 
+  ![Screenshot of Quiz](./assets/images/screenshot.jpeg)
+
+  ### Installation
+
   * To install the user must have access to the Internet; Once connected to the internet the user must enter in the url https://mffonua.github.io/Weather-forecast. After clicking enter the user is then led to the JavaScript Timed quiz and is able to use the website.
 
 
@@ -28,7 +32,7 @@ CONTENTS OF THIS FILE
 
 
   * _My apple-mac laptop_
-~Website Resources~
+Website Resources
 * W3 Schools
 * Open Weather map API
 * Lots of Youtube
