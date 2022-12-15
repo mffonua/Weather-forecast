@@ -1,6 +1,11 @@
-body {
-    background-image: url('https://source.unsplash.com/1600x900/?Landscape');
-}
+
+body { 
+    background: url('https://source.unsplash.com/1600x900/?Landscape') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
 ion-icon {
     color:whitesmoke;
     --ionicon-stroke-width: 80px;
