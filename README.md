@@ -1,43 +1,43 @@
-### Weather-forecast
+# Weather-forecast
 
-### By _**{Miles Fonua}**_
+## By: Miles Fonua
 
-CONTENTS OF THIS FILE
----------------------
-
- * Introduction
- * Deployment
- * Technology Used
- * Installation
- * Known Bugs/ Creator Content
+## Table of Contents
+- [Introduction](#Introduction)
+- [Deployment](#Deployment)
+- [Technology](#Technology)
+- [Installation](#Installation)
+- [Questions](#Questions)
 
 
   ### Introduction
   
-  The Weather Forecast is an app that tells the user the Future forcase as well as the current weather forecast. The weather forecast not only shows the temperature, but the current as well as projected humidity, air preassure, and wind speed.
+  The Weather Forecast is an app that tells the user the Future forcast as well as the current weather forecast. The weather forecast not only shows the temperature, but the current as well as projected humidity, air preassure, and wind speed.
 
-  ### Deployment
-  https://mffonua.github.io/Weather-forecast/ 
+ ### Deployment
+ https://mffonua.github.io/Weather-forecast/ 
 
-  ![Screenshot of Quiz](./assets/images/screenshot.jpeg)
+![Screenshot of Quiz](./assets/images/screenshot.jpeg)
+### Installation
 
-  ### Installation
-
-  * To install the user must have access to the Internet; Once connected to the internet the user must enter in the url https://mffonua.github.io/Weather-forecast. After clicking enter the user is then led to the JavaScript Timed quiz and is able to use the website.
-
+* To install the user must have access to the Internet; Once connected to the internet the user must enter in the url https://mffonua.github.io/Weather-forecast. After clicking enter the user is then led to the Weather Forecast app and is able to use the website.
 
 
 
-  ## Technologies Used
 
+### Technology
 
-  * _My apple-mac laptop_
+* My apple-mac laptop
 Website Resources
 * W3 Schools
 * Open Weather map API
 * Lots of Youtube
 
-## Known Bugs & Creator Notes:
+### Questions
+For questions, comments, or suggestions, please reach out to me via email at <a href="mailto:myles.fonua@gmail.com">myles.fonua@gmail.com</a>.
 
-- I didnt have time to add in the search button for different locations.
--When refreshing the page, the user must "allow" for the location to be turned on, if not the current location weather will not be projected on to screen.
+### Social Media
+
+[LinkedIn](https://www.linkedin.com/in/miles-fonua-24b791237/)
+<br>
+[GitHub](https://github.com/mffonua)
